@@ -70,3 +70,8 @@ There is logic for Sleep mode to protect the nixies from cathode poisoning. THe 
 The sleep code is buggy and has not yet been refined. If the code goes into sleep mode, 
 the nixie display will shut off and the devices will show a pulsing LED back-light. 
 If it works properly, the device is awaken with a hook press of any length. If all else fails use the LONG hook press (RESET). 
+________________________________
+
+Interface:
+
+![Rotary Interface](rotaryphone.png)
