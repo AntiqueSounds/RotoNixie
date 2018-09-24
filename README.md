@@ -1,5 +1,7 @@
 # RotoNixie
 
+https://github.com/AntiqueSounds/RotoNixie
+
 Nixie Rotary Phone Calculator
 ======
 
@@ -9,6 +11,7 @@ to the rotary selector and to the hook switch on the phone (flash switch is the 
 There is a simple printed circuit board available to provide this interface. Contact the author if desired. 
 The hardware required are: 
    - Arduino 
+   - Arduinix Nixie shield -  https://www.tindie.com/stores/nixiekeith/ or www.arduinix.com/
    - Button interface (mentioned above)
    - Modified rotary phone 
    - Optional nixie header board for arduinix (also available from the author) 
